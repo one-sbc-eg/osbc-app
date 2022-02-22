@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "48WALWCY4B.com.devprotocols.1sbc",
+                "paths": ["*", "NOT /reset-password/*"]
+            }
+        ]
+    }
+}
