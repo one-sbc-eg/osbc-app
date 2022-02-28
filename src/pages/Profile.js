@@ -25,10 +25,7 @@ const Profile = ({ history, match }) => {
         style={{ padding: '10px 10px 10px 10px' }}
       >
         <a href="https://1sbc.net" target="_blank">
-          <img
-            src={process.env.PUBLIC_URL + '/logo.png'}
-            style={{ height: '40px' }}
-          />
+          1sbc
         </a>
       </div>
       {user && user.username === username ? (
